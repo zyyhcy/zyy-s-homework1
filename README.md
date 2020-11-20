@@ -32,12 +32,7 @@ print("Hello World")
 
 ### 插入代码块
 
-```python
-import random
-
-num = random.randint(1, 100)
-print("请第%d名同学回答问题" % num)
-```
+`print("Hello World")`
 
 ### 插入表格
 
